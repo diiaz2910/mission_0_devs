@@ -22,15 +22,15 @@
             
             {{-- LOGO IMAGE --}}
             <div>
-                <div class="w-12 h-12 block lg:hidden bg-gray-400 rounded-full"></div>
-                <div class="w-12 h-12 hidden lg:block bg-gray-400 rounded-full"></div>
+                <div class="w-12 h-12 block lg:hidden bg-red-700 rounded-full"></div>
+                <div class="w-12 h-12 hidden lg:block bg-red-700 rounded-full"></div>
             </div>
 
             </div>
 
           {{-- TEXT MY COMPANY--}}
           <div class="flex flex-shrink-0 items-center">
-            <a href="#" class="text-black hover:text-gray-400 rounded px-5 py-2 text-sm font-medium">My Company</a>
+            <a href="#" class="text-black hover:text-gray-400 rounded px-5 py-2 text-sm font-medium">Turners Cars</a>
           </div>
 
             
